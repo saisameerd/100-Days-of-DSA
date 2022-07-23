@@ -1,2 +1,2 @@
-# 100-Days-of-LEETCODE
+# LEETCODE
 Solving one question every day from leetcode.
